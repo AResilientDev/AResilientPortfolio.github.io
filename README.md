@@ -1,2 +1,2 @@
 # AResilientPortfolio.github.io
-This is my portfolio 
+Hello my name is Emmanuel Casimir an urban developer & this is my portfolio 
