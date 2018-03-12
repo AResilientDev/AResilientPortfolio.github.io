@@ -4,7 +4,7 @@ html{
 body {
     margin: 60px auto;
     width: 70%;
-    color: white;
+    color: blue;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'cursive';
@@ -12,7 +12,7 @@ nav ul, footer ul {
     list-style-type: none;
 
 }
-nav ul li, footer ul li {
+#nav li, #footer li {
     display: inline;
     margin-right: 20px;
 }
@@ -22,3 +22,4 @@ a {
 }
 a:hover {
       font-weight: bold;
+      color: blue;
